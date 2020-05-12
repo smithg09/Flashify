@@ -39,16 +39,16 @@ This app is the third of three projects required for [Udacity's React Nanodegree
 ## Screenshots
 
 <a href="#">
-    <img src="assets/screenshots/s1.png" alt="Logo" width="50" height="150">
+    <img src="assets/screenshots/s1.png" alt="Logo" width="100" height="250">
 </a>
 <a href="#">
-    <img src="assets/screenshots/s2.png" alt="Logo" width="50" height="150">
+    <img src="assets/screenshots/s2.png" alt="Logo" width="100" height="250">
 </a>
 <a href="#">
-    <img src="assets/screenshots/s3.png" alt="Logo" width="50" height="150">
+    <img src="assets/screenshots/s3.png" alt="Logo" width="100" height="250">
 </a>
 <a href="#">
-    <img src="assets/screenshots/s4.png" alt="Logo" width="50" height="150">
+    <img src="assets/screenshots/s4.png" alt="Logo" width="100" height="250">
 </a>
 
 ### Built With
