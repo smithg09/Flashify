@@ -36,6 +36,8 @@
 This Application allows users to create decks, add cards into the deck and quiz themselves.Developed using React , React Naitve , Redux , Expo 
 This app is the third of three projects required for [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
+    This Project is Tested on Android 9+
+
 ## Screenshots
 
 <a href="#">
