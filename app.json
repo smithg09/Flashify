@@ -25,6 +25,15 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios" : {
+        "bundleIdentifier": "com.smithgajjar.flashify",
+        "buildNumber": "1.0.0"
+    },
+    "android" : {
+        "package": "com.smithgajjar.flashify",
+        "versionCode": 1
+    },
+    "githubUrl": "https://github.com/smithg09/Flashify_React_Udacity"
   }
 }
