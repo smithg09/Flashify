@@ -1,12 +1,8 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/smith-gajjar-5a27716b/]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="assets/splash.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/smithg09/Flashify_React_Udacity">
+    <img src="assets/splash.png" alt="Logo" width="400" height="450">
   </a>
 
   <h3 align="center">Flashify</h3>
@@ -15,7 +11,7 @@
     This Application allows users to create decks, add cards into the deck and quiz themselves.
     Developed using React Naitve By Smith Gajjar.
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <!-- <a href="https://github.com/smithg09/Flashify_React_Udacity">View Demo</a> -->
     </p>
 </p>
 
@@ -25,26 +21,27 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Screenshots](#screenshots)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+This Application allows users to create decks, add cards into the deck and quiz themselves.Developed using React , React Naitve , Redux , Expo 
 This app is the third of three projects required for [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
-`github_username`, `repo`, `twitter_handle`, `email`
 
+## Screenshots
+
+![app](assets/screenshots/s1.png)
+![app](assets/screenshots/s2.png)
+![app](assets/screenshots/s3.png)
+![app](assets/screenshots/s4.png)
 
 ### Built With
 
@@ -65,7 +62,7 @@ To get a local copy up and running follow these simple steps.
  
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/smithg09/Flashify_React_Udacity.git
 ```
 2. Install NPM packages
 ```sh
