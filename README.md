@@ -22,10 +22,10 @@
 
 * [About the Project](#about-the-project)
 * [Screenshots](#screenshots)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
-* [Usage](#usage)
+  * [Usage](#usage)
 * [Contact](#contact)
 
 
