@@ -82,7 +82,7 @@ npm install
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+### Usage
 
 Now execute following command :  
 ```sh 
