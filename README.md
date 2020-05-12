@@ -92,11 +92,10 @@ This will open Expo Developer Tools in the browser.  You can then do one of the 
 
 - Use your device to test:
 
-    Scan the QR Code using the Expo Client app ([Expo Client for Android & iOS](https://expo.io/tools#client))  from an Android or iOS device.
-- Use an Android Emulator or iOS Simulator to run the app:
-    - [iOS Simulator Setup](https://docs.expo.io/versions/v33.0.0/introduction/installation/#ios-simulator)
+    Scan the QR Code using the Expo Client app ([Expo Client for Android](https://expo.io/tools#client))  from an Android.
+
+- Use an Android Emulator to run the app:
     - [Android Emulator Setup](https://docs.expo.io/versions/v33.0.0/introduction/installation/#android-emulator)
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- CONTACT -->
