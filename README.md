@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/smithg09/Flashify_React_Udacity">
-    <img src="assets/splash.png" alt="Logo" width="470" height="450">
+    <img src="assets/splash.png" alt="Logo" width="550" height="450">
   </a>
 
   <h3 align="center">Flashify</h3>
