@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Flashify",
+    "description": "This app allows you to create flashcard decks to test yourself.",
+    "slug": "flashify",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "notification": {
+      "icon": "./assets/icon-48.png"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
