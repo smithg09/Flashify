@@ -9,7 +9,7 @@
 
   <p align="center">
     This Application allows users to create decks, add cards into the deck and quiz themselves.
-    Developed using React Naitve By Smith Gajjar.
+    Developed using React Naitve By <a href="https://smithgajjar.me">Smith Gajjar</a>.
     <br />
     <!-- <a href="https://github.com/smithg09/Flashify_React_Udacity">View Demo</a> -->
     </p>
