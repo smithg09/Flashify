@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { Text, View, StyleSheet, Image, Linking  } from 'react-native';
+import { Text, View, StyleSheet, Image, Linking } from 'react-native';
 import CustomBtn from '../helpers/CustomBtn';
 import { RESET_DECK } from '../helpers/async_handler.js';
 import { connect } from 'react-redux';
@@ -22,26 +22,35 @@ export class About extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.title}> About </Text>
-        <Text style={[styles.blockText , {fontSize: 20 }]}>
-          Flashify
+        <Text style={[styles.blockText, { fontSize: 20 }]}>Flashify</Text>
+        <Text style={styles.blockText}>
+          This Application allows users to create decks, add cards into the deck
+          and quiz themselves. Developed using React Native By Smith Gajjar.
         </Text>
         <Text style={styles.blockText}>
-          This Application allows users to create decks, add cards into the deck and quiz themselves.
-          Developed using React Naitve By Smith Gajjar.
-        </Text>
-        <Text style={styles.blockText}>
-          Do check out my website <Text style={{color: '#569299'}}
-      onPress={() => Linking.openURL('http://smithgajjar.me')}> smithgajjar.me</Text>
+          Do check out my website{' '}
+          <Text
+            style={{ color: '#569299' }}
+            onPress={() => Linking.openURL('http://smithgajjar.me')}
+          >
+            {' '}
+            smithgajjar.me
+          </Text>
         </Text>
         <CustomBtn
-         btnStyle={{
-              backgroundColor: '#d8484866',
-              borderColor: 'transparent',
-              width: '100%',
-              marginTop: 40
-            }}
-            txtStyle={{textTransform: 'uppercase', textAlign: 'center', color: '#d84848' , fontSize: 16 }}
-             onPress={this.handleRESET_DECK}
+          btnStyle={{
+            backgroundColor: '#d8484866',
+            borderColor: 'transparent',
+            width: '100%',
+            marginTop: 40
+          }}
+          txtStyle={{
+            textTransform: 'uppercase',
+            textAlign: 'center',
+            color: '#d84848',
+            fontSize: 16
+          }}
+          onPress={this.handleRESET_DECK}
         >
           Clicking on this will reset all the application data.
         </CustomBtn>
