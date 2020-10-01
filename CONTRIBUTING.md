@@ -1,4 +1,5 @@
 Smith Gajjar
 Sakshi Patel 
-Hrithik Malvani 
-Janhvi Patil
+Hrithik Malvani
+Aishwarya Goythale
+Jai Soneji
