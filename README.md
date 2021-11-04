@@ -106,4 +106,4 @@ This will open Expo Developer Tools in the browser.  You can then do one of the 
 
 Smith Gajjar - [@linkedin](https://www.linkedin.com/in/smith-gajjar-5a27716b/) - smith.gajjar@gmail.com
 
-Website: [smithgajjar.me](https://smithgajjar.tech)
+Website: [smithgajjar.tech](https://smithgajjar.tech)
