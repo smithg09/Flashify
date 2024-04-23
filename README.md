@@ -104,6 +104,6 @@ This will open Expo Developer Tools in the browser.  You can then do one of the 
 <!-- CONTACT -->
 ## Contact
 
-Smith Gajjar - [@linkedin](https://www.linkedin.com/in/smith-gajjar-5a27716b/) - smith.gajjar@gmail.com
+Smith Gajjar - [@linkedin](https://www.linkedin.com/in/smithg09/) - smith.gajjar@gmail.com
 
-Website: [smithgajjar.tech](https://smithgajjar.tech)
+Website: [smithgajjar.dev](https://smithgajjar.dev)
