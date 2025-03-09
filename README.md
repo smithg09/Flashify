@@ -9,10 +9,10 @@
 
   <p align="center">
     This Application allows users to create decks, add cards into the deck and quiz themselves.
-    Developed using React Naitve By <a href="https://smithgajjar.me">Smith Gajjar</a>.
+    Developed using React Naitve.
     <br />
     <br />
-    <a href="https://expo.io/@smithg09/flashify">View Demo</a>
+<!--     <a href="https://expo.io/@smithg09/flashify">View Demo</a> -->
     </p>
 </p>
 
@@ -99,11 +99,3 @@ This will open Expo Developer Tools in the browser.  You can then do one of the 
 
 - Use an Android Emulator to run the app:
     - [Android Emulator Setup](https://docs.expo.io/versions/v33.0.0/introduction/installation/#android-emulator)
-
-
-<!-- CONTACT -->
-## Contact
-
-Smith Gajjar - [@linkedin](https://www.linkedin.com/in/smithg09/) - smith.gajjar@gmail.com
-
-Website: [smithgajjar.dev](https://smithgajjar.dev)
